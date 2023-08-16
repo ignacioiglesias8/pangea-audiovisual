@@ -90,6 +90,17 @@ nav ul li a:hover {
     font-style: italic;
 }
 
+/* Estilos para la sección de servicios */
+#servicios-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#servicios{
+    background-color: lightgreen;
+}
+
 /* Estilos para la sección de portfolio */
 #portfolio-row {
     display: flex;
